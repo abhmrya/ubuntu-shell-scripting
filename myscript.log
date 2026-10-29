@@ -1,0 +1,6 @@
+First line: total 129
+ERROR: disk full
+exec
+./descriptors-exec.sh: line 6: 3: Bad file descriptor
+First line: 
+ERROR: disk full
