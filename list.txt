@@ -1,185 +1,110 @@
-ls: cannot access '/nope': No such file or directory
-/etc:
-NetworkManager
-PackageKit
-X11
-adduser.conf
-alternatives
-apache2
-apparmor
-apparmor.d
-apport
-apt
-bash.bashrc
-bash_completion
-bash_completion.d
-bindresvport.blacklist
-binfmt.d
-byobu
-ca-certificates
-ca-certificates.conf
-ca-certificates.conf.dpkg-old
-cloud
-cni
-console-setup
-credstore
-credstore.encrypted
-cron.d
-cron.daily
-cron.hourly
-cron.monthly
-cron.weekly
-cron.yearly
-crontab
-dbus-1
-dconf
-debconf.conf
-debian_version
-default
-deluser.conf
-depmod.d
-dhcp
-dhcpcd.conf
-dnsmasq.d
-docker
-dpkg
-e2scrub.conf
-environment
-environment.d
-ethertypes
-fonts
-fstab
-fuse.conf
-gai.conf
-glvnd
-gnutls
-gprofng.rc
-groff
-group
-group-
-gshadow
-gshadow-
-gss
-gtk-3.0
-host.conf
-hostname
-hosts
-hosts.allow
-hosts.deny
-init
-init.d
-inputrc
-iproute2
-issue
-issue.net
-kernel
-landscape
-ld.so.cache
-ld.so.conf
-ld.so.conf.d
-ldap
-legal
-libaudit.conf
-libnl-3
-lighttpd
-locale.alias
-locale.conf
-locale.gen
-localtime
-logcheck
-login.defs
-logrotate.conf
-logrotate.d
-lsb-release
-machine-id
-magic
-magic.mime
-manpath.config
-mime.types
-mke2fs.conf
-modprobe.d
-modules
-modules-load.d
-mtab
-nanorc
-netconfig
-netplan
-network
-networkd-dispatcher
-networks
-newt
-nftables.conf
-nginx
-nsswitch.conf
-opt
-os-release
-pam.conf
-pam.d
-passwd
-passwd-
-perl
-pm
-polkit-1
-profile
-profile.d
-protocols
-python3
-python3.12
-rc0.d
-rc1.d
-rc2.d
-rc3.d
-rc4.d
-rc5.d
-rc6.d
-rcS.d
-resolv.conf
-rmt
-rpc
-rsyslog.conf
-rsyslog.d
-security
-selinux
-sensors.d
-sensors3.conf
-services
-sgml
-shadow
-shadow-
-shells
-skel
-ssh
-ssl
-subgid
-subgid-
-subuid
-subuid-
-sudo.conf
-sudo_logsrvd.conf
-sudoers
-sudoers.d
-supercat
-sysctl.conf
-sysctl.d
-systemd
-terminfo
-timezone
-tmpfiles.d
-ubuntu-advantage
-ucf.conf
-udev
-ufw
-update-manager
-update-motd.d
-updatedb.conf
-vconsole.conf
-vim
-vtrgb
-vulkan
-wgetrc
-wsl-distribution.conf
-wsl.conf
-xattr.conf
-xdg
-xml
-zsh_command_not_found
+total 129
+-rwxrwxrwx 1 abhay abhay 115867 Oct 27 19:17 Ubuntu_Shell_Scripting_A_to_Z.pdf
+-rwxrwxrwx 1 abhay abhay    134 Oct 28 13:29 app.conf
+-rwxrwxrwx 1 abhay abhay    145 Oct 27 21:10 args.sh
+-rwxrwxrwx 1 abhay abhay    194 Oct 27 20:48 command_substitution.sh
+-rwxrwxrwx 1 abhay abhay    130 Oct 27 20:00 comment.sh
+-rwxrwxrwx 1 abhay abhay     56 Oct 29 12:21 config.txt
+-rwxrwxrwx 1 abhay abhay    302 Oct 27 20:59 environment.sh
+-rwxrwxrwx 1 abhay abhay    122 Oct 27 19:57 hello.sh
+-rwxrwxrwx 1 abhay abhay    436 Oct 28 12:38 input.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 29 12:35 list.txt
+-rwxrwxrwx 1 abhay abhay    540 Oct 29 12:21 multi-line-text.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 27 20:41 my notes.txt
+-rwxrwxrwx 1 abhay abhay    188 Oct 27 21:37 parameter.sh
+-rwxrwxrwx 1 abhay abhay    209 Oct 29 12:32 pipes-tee.sh
+-rwxrwxrwx 1 abhay abhay    350 Oct 27 21:56 printf.sh
+-rwxrwxrwx 1 abhay abhay    720 Oct 28 12:19 read.sh
+-rwxrwxrwx 1 abhay abhay    463 Oct 27 21:19 readonly_unset_declare.sh
+-rwxrwxrwx 1 abhay abhay    616 Oct 28 13:28 redirection.sh
+-rwxrwxrwx 1 abhay abhay    714 Oct 27 20:30 templates.sh
+-rwxrwxrwx 1 abhay abhay    124 Oct 27 21:48 variable_scope.sh
+-rwxrwxrwx 1 abhay abhay    119 Oct 27 20:34 variables.sh
+total 133
+-rwxrwxrwx 1 abhay abhay 115867 Oct 27 19:17 Ubuntu_Shell_Scripting_A_to_Z.pdf
+-rwxrwxrwx 1 abhay abhay    134 Oct 28 13:29 app.conf
+-rwxrwxrwx 1 abhay abhay    145 Oct 27 21:10 args.sh
+-rwxrwxrwx 1 abhay abhay    194 Oct 27 20:48 command_substitution.sh
+-rwxrwxrwx 1 abhay abhay    130 Oct 27 20:00 comment.sh
+-rwxrwxrwx 1 abhay abhay     56 Oct 29 12:21 config.txt
+-rwxrwxrwx 1 abhay abhay    302 Oct 27 20:59 environment.sh
+-rwxrwxrwx 1 abhay abhay    122 Oct 27 19:57 hello.sh
+-rwxrwxrwx 1 abhay abhay    436 Oct 28 12:38 input.sh
+-rwxrwxrwx 1 abhay abhay   1255 Oct 29 12:35 list.txt
+-rwxrwxrwx 1 abhay abhay    540 Oct 29 12:21 multi-line-text.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 27 20:41 my notes.txt
+-rwxrwxrwx 1 abhay abhay    188 Oct 27 21:37 parameter.sh
+-rwxrwxrwx 1 abhay abhay    209 Oct 29 12:32 pipes-tee.sh
+-rwxrwxrwx 1 abhay abhay    350 Oct 27 21:56 printf.sh
+-rwxrwxrwx 1 abhay abhay    720 Oct 28 12:19 read.sh
+-rwxrwxrwx 1 abhay abhay    463 Oct 27 21:19 readonly_unset_declare.sh
+-rwxrwxrwx 1 abhay abhay    616 Oct 28 13:28 redirection.sh
+-rwxrwxrwx 1 abhay abhay    714 Oct 27 20:30 templates.sh
+-rwxrwxrwx 1 abhay abhay    124 Oct 27 21:48 variable_scope.sh
+-rwxrwxrwx 1 abhay abhay    119 Oct 27 20:34 variables.sh
+total 133
+-rwxrwxrwx 1 abhay abhay 115867 Oct 27 19:17 Ubuntu_Shell_Scripting_A_to_Z.pdf
+-rwxrwxrwx 1 abhay abhay    134 Oct 28 13:29 app.conf
+-rwxrwxrwx 1 abhay abhay    145 Oct 27 21:10 args.sh
+-rwxrwxrwx 1 abhay abhay    194 Oct 27 20:48 command_substitution.sh
+-rwxrwxrwx 1 abhay abhay    130 Oct 27 20:00 comment.sh
+-rwxrwxrwx 1 abhay abhay     56 Oct 29 12:21 config.txt
+-rwxrwxrwx 1 abhay abhay    302 Oct 27 20:59 environment.sh
+-rwxrwxrwx 1 abhay abhay    122 Oct 27 19:57 hello.sh
+-rwxrwxrwx 1 abhay abhay    436 Oct 28 12:38 input.sh
+-rwxrwxrwx 1 abhay abhay   2510 Oct 29 12:35 list.txt
+-rwxrwxrwx 1 abhay abhay    540 Oct 29 12:21 multi-line-text.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 27 20:41 my notes.txt
+-rwxrwxrwx 1 abhay abhay    188 Oct 27 21:37 parameter.sh
+-rwxrwxrwx 1 abhay abhay    209 Oct 29 12:32 pipes-tee.sh
+-rwxrwxrwx 1 abhay abhay    350 Oct 27 21:56 printf.sh
+-rwxrwxrwx 1 abhay abhay    720 Oct 28 12:19 read.sh
+-rwxrwxrwx 1 abhay abhay    463 Oct 27 21:19 readonly_unset_declare.sh
+-rwxrwxrwx 1 abhay abhay    616 Oct 28 13:28 redirection.sh
+-rwxrwxrwx 1 abhay abhay    714 Oct 27 20:30 templates.sh
+-rwxrwxrwx 1 abhay abhay    124 Oct 27 21:48 variable_scope.sh
+-rwxrwxrwx 1 abhay abhay    119 Oct 27 20:34 variables.sh
+total 133
+-rwxrwxrwx 1 abhay abhay 115867 Oct 27 19:17 Ubuntu_Shell_Scripting_A_to_Z.pdf
+-rwxrwxrwx 1 abhay abhay    134 Oct 28 13:29 app.conf
+-rwxrwxrwx 1 abhay abhay    145 Oct 27 21:10 args.sh
+-rwxrwxrwx 1 abhay abhay    194 Oct 27 20:48 command_substitution.sh
+-rwxrwxrwx 1 abhay abhay    130 Oct 27 20:00 comment.sh
+-rwxrwxrwx 1 abhay abhay     56 Oct 29 12:21 config.txt
+-rwxrwxrwx 1 abhay abhay    302 Oct 27 20:59 environment.sh
+-rwxrwxrwx 1 abhay abhay    122 Oct 27 19:57 hello.sh
+-rwxrwxrwx 1 abhay abhay    436 Oct 28 12:38 input.sh
+-rwxrwxrwx 1 abhay abhay   3765 Oct 29 12:35 list.txt
+-rwxrwxrwx 1 abhay abhay    540 Oct 29 12:21 multi-line-text.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 27 20:41 my notes.txt
+-rwxrwxrwx 1 abhay abhay    188 Oct 27 21:37 parameter.sh
+-rwxrwxrwx 1 abhay abhay    209 Oct 29 12:32 pipes-tee.sh
+-rwxrwxrwx 1 abhay abhay    350 Oct 27 21:56 printf.sh
+-rwxrwxrwx 1 abhay abhay    720 Oct 28 12:19 read.sh
+-rwxrwxrwx 1 abhay abhay    463 Oct 27 21:19 readonly_unset_declare.sh
+-rwxrwxrwx 1 abhay abhay    616 Oct 28 13:28 redirection.sh
+-rwxrwxrwx 1 abhay abhay    714 Oct 27 20:30 templates.sh
+-rwxrwxrwx 1 abhay abhay    124 Oct 27 21:48 variable_scope.sh
+-rwxrwxrwx 1 abhay abhay    119 Oct 27 20:34 variables.sh
+total 137
+-rwxrwxrwx 1 abhay abhay 115867 Oct 27 19:17 Ubuntu_Shell_Scripting_A_to_Z.pdf
+-rwxrwxrwx 1 abhay abhay    134 Oct 28 13:29 app.conf
+-rwxrwxrwx 1 abhay abhay    145 Oct 27 21:10 args.sh
+-rwxrwxrwx 1 abhay abhay    194 Oct 27 20:48 command_substitution.sh
+-rwxrwxrwx 1 abhay abhay    130 Oct 27 20:00 comment.sh
+-rwxrwxrwx 1 abhay abhay     56 Oct 29 12:21 config.txt
+-rwxrwxrwx 1 abhay abhay    302 Oct 27 20:59 environment.sh
+-rwxrwxrwx 1 abhay abhay    122 Oct 27 19:57 hello.sh
+-rwxrwxrwx 1 abhay abhay    436 Oct 28 12:38 input.sh
+-rwxrwxrwx 1 abhay abhay   5020 Oct 29 12:36 list.txt
+-rwxrwxrwx 1 abhay abhay    540 Oct 29 12:21 multi-line-text.sh
+-rwxrwxrwx 1 abhay abhay      0 Oct 27 20:41 my notes.txt
+-rwxrwxrwx 1 abhay abhay    188 Oct 27 21:37 parameter.sh
+-rwxrwxrwx 1 abhay abhay    209 Oct 29 12:32 pipes-tee.sh
+-rwxrwxrwx 1 abhay abhay    350 Oct 27 21:56 printf.sh
+-rwxrwxrwx 1 abhay abhay    720 Oct 28 12:19 read.sh
+-rwxrwxrwx 1 abhay abhay    463 Oct 27 21:19 readonly_unset_declare.sh
+-rwxrwxrwx 1 abhay abhay    616 Oct 28 13:28 redirection.sh
+-rwxrwxrwx 1 abhay abhay    714 Oct 27 20:30 templates.sh
+-rwxrwxrwx 1 abhay abhay    124 Oct 27 21:48 variable_scope.sh
+-rwxrwxrwx 1 abhay abhay    119 Oct 27 20:34 variables.sh
